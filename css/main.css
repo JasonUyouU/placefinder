@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
+input {
+	display: block;
+	margin: 0 auto;
+	padding: 4px 10px;
+	font-size: 18px;
+	font-family: 'Dosis', sans-serif;
+}
+button {
+	display: block;
+	margin: 20px auto;
+	border: none;
+	padding: 4px 10px;
+	font-size: 18px;
+	font-family: 'Dosis', sans-serif;
+	background-color: #85c82a;
+	color: #fff;
+}
+div {
+	display: inline-block;
+}
+#googleMap {
+	float: left;
+	margin-right: 50px;
+}
+#orderedList {
+	float: left;
+}
+ol {
+	text-align: left;
+}
+li {
+	padding: 5px 0;
+}
+li:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
